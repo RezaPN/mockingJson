@@ -1,0 +1,7 @@
+{
+  "todos": [
+    { "id": 100, "text": "Bersih-bersih", "completed": false },
+    { "id": 101, "text": "Belajar", "completed": false },
+    { "id": 102, "text": "Main Game", "completed": false }
+  ]
+}
